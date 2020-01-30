@@ -1,3 +1,6 @@
+# HEAPSORT ALGORITHM
+# Descrizione: https://www.thelicato.it/blog/algoritmi-di-ordinamento-heapsort-in-python/
+
 def max_heapify(array,n,i):
     l=(2*i)+1 #Left(i)
     r=(2*i)+2 #Right(i)
