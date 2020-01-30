@@ -1,3 +1,6 @@
+# BUCKET SORT ALGORITHM
+# Descrizione: https://www.thelicato.it/blog/bucket-sort-in-python/
+
 from utils import *
 from insertion_sort import *
 
