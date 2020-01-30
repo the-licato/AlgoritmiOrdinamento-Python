@@ -1,3 +1,6 @@
+# RANDOMIZED QUICKSORT ALGORITHM
+# Descrizione: https://www.thelicato.it/blog/quicksort-worst-case-randomizzato-e-three-way/
+
 from quicksort import partition
 from random import *
 
