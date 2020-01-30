@@ -1,3 +1,6 @@
+# INSERTION SORT ALGORITHM
+# Descrizione: https://www.thelicato.it/blog/algoritmi-di-ordinamento-insertion-sort/
+
 def insertion_sort(array):
     for j in range(1,len(array)):
         key=array[j]
