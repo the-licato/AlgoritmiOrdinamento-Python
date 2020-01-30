@@ -1,3 +1,6 @@
+# QUICKSORT ALGORITHM
+# Descrizione: https://www.thelicato.it/blog/algoritmi-di-ordinamento-quicksort-in-python/
+
 def partition(array,p,r):
     x=array[r]
     i=p-1
