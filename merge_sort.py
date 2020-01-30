@@ -1,3 +1,6 @@
+# MERGE SORT ALGORITHM
+# Descrizione: https://www.thelicato.it/blog/algoritmi-di-ordinamento-merge-sort-in-python/
+
 #Si e' realizzata una funzione di MergeSort che ordina tutto il vettore,
 #dunque l'unico parametro in ingresso e' il vettore stesso
 import sys
