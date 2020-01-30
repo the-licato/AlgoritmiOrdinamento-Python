@@ -1,3 +1,6 @@
+# COUNTING SORT ALGORITHM
+# Descrizione: https://www.thelicato.it/blog/algoritmi-di-ordinamento-counting-sort/
+
 def counting_sort(A,k):
     B=[0 for i in range(len(A))] #creo un vettore di dimensione len(A) e lo riempio di '0'
     C=[0 for i in range(k+1)] #creo un vettore di dimensione k+1 e lo riempio di '0'
