@@ -1,3 +1,6 @@
+# QUICKSORT 3-WAY ALGORITHM
+# Descrizione: https://www.thelicato.it/blog/quicksort-worst-case-randomizzato-e-three-way/
+
 def partition_3way(array,p,r):
     x=array[p]
     a=j=p
